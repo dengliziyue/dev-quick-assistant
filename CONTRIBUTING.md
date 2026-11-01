@@ -10,7 +10,7 @@
 ### 开发环境
 
 ```bash
-git clone https://github.com/your-name/dev-quick-assistant.git
+git clone https://github.com/dengliziyue/dev-quick-assistant.git
 cd dev-quick-assistant
 npm install
 npm run dev        # 启动开发预览台 http://localhost:5173/preview.html（无需加载扩展）
@@ -82,7 +82,7 @@ src/
 ### Setup
 
 ```bash
-git clone https://github.com/your-name/dev-quick-assistant.git
+git clone https://github.com/dengliziyue/dev-quick-assistant.git
 cd dev-quick-assistant
 npm install
 npm run dev        # preview harness at http://localhost:5173/preview.html (no extension needed)

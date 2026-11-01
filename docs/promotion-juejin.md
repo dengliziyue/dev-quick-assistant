@@ -1,6 +1,6 @@
 # 我做了一个纯本地的浏览器开发者工具箱扩展，九大工具零上报，源码可直接白嫖
 
-> 掘金 / 知乎宣传文案 · 发布前请把文中 `your-name` 替换为你的 GitHub 用户名，并把截图路径换成仓库绝对链接。
+> 掘金 / 知乎宣传文案 · 发布前请把文中 `dengliziyue` 替换为你的 GitHub 用户名，并把截图路径换成仓库绝对链接。
 
 ---
 
@@ -65,13 +65,13 @@
 ## 怎么用
 
 ```bash
-git clone https://github.com/your-name/dev-quick-assistant.git
+git clone https://github.com/dengliziyue/dev-quick-assistant.git
 cd dev-quick-assistant && npm install && npm run zip
 ```
 
 打开 `chrome://extensions` → 开发者模式 → 加载已解压的扩展程序 → 选 `dist/`。
 
-不想构建？直接去 [Releases](https://github.com/your-name/dev-quick-assistant/releases) 下载 CI 自动打包的 zip，解压加载即可。
+不想构建？直接去 [Releases](https://github.com/dengliziyue/dev-quick-assistant/releases) 下载 CI 自动打包的 zip，解压加载即可。
 
 想二次开发？`npm run dev` 会在 `localhost:5173/preview.html` 打开一个开发预览台 —— chrome API 全部 mock 掉，所有工具在普通标签页里就能调试，不用加载扩展。
 
@@ -85,7 +85,7 @@ cd dev-quick-assistant && npm install && npm run zip
 
 项目 MIT 协议，结构清晰（core 纯逻辑 + tools 组件 + tests），CONTRIBUTING 里写了「十分钟新增一个工具」的完整清单 —— 想加 URL 编码？JWT 解码？UUID 生成？欢迎提 PR / Issue。
 
-**GitHub：`https://github.com/your-name/dev-quick-assistant`**
+**GitHub：`https://github.com/dengliziyue/dev-quick-assistant`**
 
 觉得有用的话点个 Star ⭐，让更多被网页广告工具折磨的同学看到。
 

@@ -4,7 +4,7 @@
 
 **Chrome / Edge (Manifest V3) 一体化开发者工具箱 —— 100% 本地运行，零网络上报。**
 
-[![Build & Test](https://github.com/your-name/dev-quick-assistant/actions/workflows/build.yml/badge.svg)](./.github/workflows/build.yml)
+[![Build & Test](https://github.com/dengliziyue/dev-quick-assistant/actions/workflows/build.yml/badge.svg)](./.github/workflows/build.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
 [![MV3](https://img.shields.io/badge/Manifest-V3-4f5fd5)](./public/manifest.json)
 [![Tests](https://img.shields.io/badge/tests-165%20passing-brightgreen)](.)
@@ -62,7 +62,7 @@
 ### 从源码构建
 
 ```bash
-git clone https://github.com/your-name/dev-quick-assistant.git
+git clone https://github.com/dengliziyue/dev-quick-assistant.git
 cd dev-quick-assistant
 npm install
 npm run zip        # -> release/dev-quick-assistant-v1.0.0.zip + dist/
