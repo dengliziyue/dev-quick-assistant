@@ -1,0 +1,14 @@
+{
+  "extName": {
+    "message": "开发助手 Dev Quick Assistant"
+  },
+  "extDesc": {
+    "message": "开发者工具箱：JSON格式化/差异、正则、时间戳、色值、Base64、Cookie、请求复制、存储查看、图片提取。纯本地运行，不上传任何数据。"
+  },
+  "cmdOpenPopup": {
+    "message": "打开开发助手弹窗"
+  },
+  "cmdOpenPanel": {
+    "message": "打开开发助手侧边栏"
+  }
+}

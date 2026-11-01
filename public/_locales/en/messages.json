@@ -1,0 +1,14 @@
+{
+  "extName": {
+    "message": "Dev Quick Assistant"
+  },
+  "extDesc": {
+    "message": "Dev toolbox: JSON format/diff, regex, timestamps, colors, Base64, cookies, copy as curl/fetch, storage viewer, image extraction. 100% local."
+  },
+  "cmdOpenPopup": {
+    "message": "Open Dev Quick Assistant popup"
+  },
+  "cmdOpenPanel": {
+    "message": "Open Dev Quick Assistant side panel"
+  }
+}
